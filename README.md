@@ -1,5 +1,9 @@
 # clustering-basketball-players
-Clustering NBA Players Based on Performance
+Clustering NBA Players Based on Performance.
+Analysing Player performance stats for NBA season 2020-2021. Basketball players are traditionally grouped into five distinct positions, but these designations are quickly becoming outdated. This study is an attempt to reclassify players into new groups based on personal performance in the 2020-2021 NBA regular season.
+
+Is it possible that a new player designation can be determined based on the actual performance of modern basketball players? If such a designation is found, could it be used to build a strong basketball team?
+
 ## About Dataset
 
 This dataset has been obtained from [Basketball-reference](https://www.basketball-reference.com/)
