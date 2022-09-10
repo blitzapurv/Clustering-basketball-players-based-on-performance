@@ -11,13 +11,13 @@ Attribute Information:
 
 **player_data.csv**
 
-From -- First year.
-To -- Last year.
-Pos -- Position.
-Ht -- Height.
-Wt -- Weight.
-Birth Date -- Birth Date.
-Colleges -- College.
+* From -- First year
+* To -- Last year
+* Pos -- Position
+* Ht -- Height
+* Wt -- Weight
+* Birth Date -- Birth Date
+* Colleges -- College
 
 **seasons_stats.csv**
 
